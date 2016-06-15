@@ -1,4 +1,7 @@
 body{
-    image-background: url('http://wallpapercave.com/wp/3jO7N1x.jpg');
+  font-family: Palatino, 'Palatino Linotype', serif;
     
+}
+.background-text{
+    background-image: url(http://wallpapercave.com/wp/3jO7N1x.jpg);
 }
