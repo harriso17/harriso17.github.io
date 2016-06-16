@@ -1,6 +1,6 @@
 var main=function(){
 
-$('.btn').click(function() {
+$('.switchBtn').click(function() {
     $('.jumbotron').toggleClass('jumbotron-alt');
   });
 
