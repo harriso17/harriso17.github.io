@@ -9,6 +9,7 @@ body{
   background-size: cover;
 }
 
-.background-text h1{
-	 border: 1px solid #000;
+.big-text{
+	text-align:center;
+	border: 1px solid #000;
 }
