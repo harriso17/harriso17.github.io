@@ -2,14 +2,13 @@ body{
   font-family: Helvetica, 'Palatino Linotype', serif;
    text-align:center;
 }
-.background-text{
-  padding: 250px 0;
-	margin: 30px;
-  background-image: url(http://wallpapercave.com/wp/3jO7N1x.jpg);
-  background-size: cover;
-}
 
-.big-text{
-	text-align:center;
-	border: 1px solid #000;
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://wallpapercave.com/wp/3jO7N1x.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
