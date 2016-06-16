@@ -26,11 +26,11 @@ body{
 }
 
 
-.btn{
+.switchBtn{
   margin-right: 30px;
   padding: 8px 18px;
   border: 1px solid black;
 }
-.btn:active{
+.switchBtn:active{
   background-color:red;
 }
