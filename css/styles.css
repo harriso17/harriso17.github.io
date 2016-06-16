@@ -3,7 +3,7 @@ body{
 }
 
 .jumbotron {
-  display: block;
+  display: flex;
   text-align: center;
   background-image: url('http://wallpapercave.com/wp/3jO7N1x.jpg');
   background-size: cover;
@@ -13,7 +13,7 @@ body{
 }
 
 .jumbotron-alt{
-   display: block;
+   display: flex;
   background-image: url('http://i.imgur.com/Stkwf.jpg');
   background-size: cover;
   color: #ffffff;
@@ -21,8 +21,7 @@ body{
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 .big{
-  text-align: center;
-  vertical-align: middle;
+
   
 }
 
