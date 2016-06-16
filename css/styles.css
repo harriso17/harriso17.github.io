@@ -13,11 +13,9 @@ body{
 }
 
 .jumbotron-alt{
-  display: flex;
-  text-align: center;
+  
   background-image: url('http://i.imgur.com/Stkwf.jpg');
-  background-size: cover;
-  height: 500px;
+
 }
 .big{
   color:white;
