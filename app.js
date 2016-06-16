@@ -1,7 +1,7 @@
 var main=function(){
 
 $('.switchBtn').click(function() {
-    $('.jumbotron').toggleClass('jumbotron-alt');
+    $('.jumbotron').toggleClass('.jumbotron-alt');
   });
 
 
