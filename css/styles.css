@@ -13,15 +13,15 @@ body{
 }
 
 .jumbotron-alt{
-   display: flex;
+  display: flex;
+  text-align: center;
   background-image: url('http://i.imgur.com/Stkwf.jpg');
   background-size: cover;
-  color: #ffffff;
   height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 .big{
-
+  color:white;
+  left:500px;
   
 }
 
