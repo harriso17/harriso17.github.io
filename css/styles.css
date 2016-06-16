@@ -13,8 +13,7 @@ body{
 }
 
 .jumbotron-alt{
-   display: flex;
-  text-align: center;
+   display: inline;
   background-image: url('http://i.imgur.com/Stkwf.jpg');
   background-size: cover;
   color: #ffffff;
@@ -23,23 +22,20 @@ body{
 }
 .big{
   border-radius: 2px;
-  border: 1px solid black;
+  border: 1px solid white;
   text-shadow: none;
   text-align:center;
   text-align: center;
   vertical-align: middle;
-  float: middle;
+  
 }
 
 .big:hover{
-  color: red;
-  background-color: black;
+  
   border-color:red;
 }
+
 .btn{
-  float:left;
-}
-.btn a{
   margin-right: 30px;
   padding: 8px 18px;
   border: 1px solid #204156;
