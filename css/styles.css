@@ -12,3 +12,11 @@ body{
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
+
+.jumbotron h1{
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
